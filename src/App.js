@@ -149,6 +149,7 @@ function Item({ item, onDeleteItem, onToggleItem }) {
     </li>
   );
 }
+//comment
 function Stats({ items }) {
   if (!items.length)
     return (
